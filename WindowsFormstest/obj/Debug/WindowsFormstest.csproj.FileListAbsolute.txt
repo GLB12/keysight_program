@@ -1,0 +1,11 @@
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.exe.config
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.exe
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.pdb
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csprojAssemblyReference.cache
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.Form1.resources
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.Properties.Resources.resources
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csproj.GenerateResource.cache
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csproj.CoreCompileInputs.cache
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.exe
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.pdb
+c:\users\leiboguo\source\repos\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.Form2.resources
